@@ -6,7 +6,7 @@ const Choose = () => {
       <div className="mx-[10px]">
         <div>
           <h2 className="text-white text-[28px] text-center">
-            Reasons to Choose DigitX for{" "}
+            Reasons to Choose DigitX for
           </h2>
           <h2 className="text-[#666666] text-[28px] text-center">
             Your Digital Journey
