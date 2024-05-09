@@ -19,7 +19,7 @@ const Works = () => {
           <WorksCard
             icon="/assets/img1.svg"
             alt="Innovative E-commerce Platform"
-            link="#"
+            link=""
             title="Innovative E-commerce Platform"
             category="Category: Web Development."
             date="January 2022"
@@ -30,7 +30,7 @@ const Works = () => {
           <WorksCard
             icon="/assets/img2.svg"
             alt="Mobile App for Enhanced Fitness"
-            link="#"
+            link=""
             title="Mobile App for Enhanced Fitness"
             category="Category: Mobile App Development."
             date="March 2022"
@@ -41,7 +41,7 @@ const Works = () => {
           <WorksCard
             icon="/assets/img3.svg"
             alt="Modern Corporate Website"
-            link="#"
+            link=""
             title="Modern Corporate Website"
             category="Category: Web Design."
             date="April 2022"
@@ -52,7 +52,7 @@ const Works = () => {
           <WorksCard
             icon="/assets/img4.svg"
             alt="Digital Marketing Success Story"
-            link="#"
+            link=""
             title="Digital Marketing Success Story"
             category="Category: Digital Marketing."
             date="May 2022"

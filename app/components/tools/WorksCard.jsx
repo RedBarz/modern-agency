@@ -8,7 +8,7 @@ const WorksCard = ({ icon, alt, link, title, category, date, text }) => {
         <div className="relative -bottom-[50px]">
           <a
             href={link}
-            className="w-[218px] h-[52px] bg-[#1a1a1a14] backdrop-blur-md border-2 border-white/10 rounded-full text-white text-[14px] flex flex-row justify-around items-center hover:bg-white hover:text-black hover:duration-300 hover:shadow-md hover:shadow-white/50 px-4 "
+            className="w-[218px] h-[52px] bg-[#1a1a1a14] backdrop-blur-md border-2 border-white/10 rounded-full text-white text-[14px] flex flex-row justify-around items-center hover:bg-[#2c76ffc1] hover:text-white hover:duration-300 hover:shadow-md hover:shadow-[#2c76ffb5] px-4 "
           >
             View Projects Details <FaArrowRight size={16} />
           </a>

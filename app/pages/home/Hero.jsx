@@ -27,10 +27,10 @@ const Hero = () => {
               Unlock Your Digital Potential Today
             </p>
             <div className="flex flex-row justify-between mt-3">
-              <button className="w-[124px] h-[49px] rounded-[56px] bg-[#1a1a1a] border border-white/10 text-[11px] text-white hover:bg-white hover:text-black hover:duration-300  hover:shadow-md hover:shadow-white/50">
+              <button className="w-[124px] h-[49px] rounded-[56px] bg-[#1a1a1a] border border-white/10 text-[11px] text-white hover:bg-[#2c76ffd7] hover:duration-300  hover:shadow-md hover:shadow-[#2c75ff]">
                 Get started
               </button>
-              <button className="w-[147px] h-[49px] rounded-[56px] bg-[#1a1a1a] border border-white/10 text-[11px] text-white hover:bg-white hover:text-black hover:duration-300  hover:shadow-md hover:shadow-white/50">
+              <button className="w-[147px] h-[49px] rounded-[56px] bg-[#1a1a1a] border border-white/10 text-[11px] text-white hover:bg-[#2c76ffd7] hover:duration-300  hover:shadow-md hover:shadow-[#2c75ff]">
                 Free Consultation
               </button>
             </div>

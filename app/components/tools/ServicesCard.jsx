@@ -12,12 +12,12 @@ const ServicesCard = ({ icon, title, text, alt }) => {
             <h2 className="text-white text-[20px]">{title}</h2>
             <p className="text-[#666666] text-[14px] text-center mt-3">
               {text}
-              <span className="text-white/60 hover:text-white hover:duration-300 cursor-pointer">
+              <span className="text-white/60 hover:text-[#2c76ff] hover:duration-300 cursor-pointer">
                 Read More...
               </span>
             </p>
           </div>
-          <button className="text-white flex flex-row justify-around items-center w-[149px] h-[52px] rounded-full bg-[#1a1a1a] border border-white/10 text-[14px] hover:bg-white hover:text-black hover:duration-300 mt-6 hover:shadow-md hover:shadow-white/50">
+          <button className="text-white flex flex-row justify-around items-center w-[149px] h-[52px] rounded-full bg-[#1a1a1a] border border-white/10 text-[14px] hover:bg-[#2c76ff] hover:text-white hover:duration-300 mt-6 hover:shadow-md hover:shadow-[#2c76ff92]">
             Learn More
             <FaArrowRight size={16} />
           </button>
